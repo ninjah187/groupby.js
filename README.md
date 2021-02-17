@@ -60,7 +60,7 @@ group(
   {
     keys: ['London', 'boss', '15000'],
     values: [
-      { name: 'Alice',   city: 'London', role: 'boss',      salary: 15_000 },
+      { name: 'Alice', city: 'London', role: 'boss', salary: 15_000 },
     ]
   },
   {
@@ -72,20 +72,20 @@ group(
   {
     keys: ['London', 'developer', '8000'],
     values: [
-      { name: 'Don',     city: 'London', role: 'developer', salary: 8_000 },
-      { name: 'Flinn',   city: 'London', role: 'developer', salary: 8_000 }
+      { name: 'Don',   city: 'London', role: 'developer', salary: 8_000 },
+      { name: 'Flinn', city: 'London', role: 'developer', salary: 8_000 }
     ]
   },
   {
     keys: ['NY', 'salesman', '10000'],
     values: [
-      { name: 'Bob',     city: 'NY',     role: 'salesman',  salary: 10_000 },
+      { name: 'Bob', city: 'NY', role: 'salesman', salary: 10_000 },
     ]
   },
   {
     keys: ['NY', 'developer', '8000'],
     values: [
-      { name: 'Ernie',   city: 'NY',     role: 'developer', salary: 8_000 }
+      { name: 'Ernie', city: 'NY', role: 'developer', salary: 8_000 }
     ]
   }
 ]
