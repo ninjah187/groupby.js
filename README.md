@@ -1,9 +1,10 @@
 # groupby.js
 
-## Simple util for grouping collections of objects by single and multiple keys.
+## Group collections of objects by single and multiple keys.
 
 ### Features:
-- Small and simple.
+- Small and simple (20 loc).
+- Elegant API.
 - No other dependencies.
 - ES-compliant.
 - Tree-shakable.
