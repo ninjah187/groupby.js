@@ -1,6 +1,6 @@
 # groupby.js
 
-## Group collections of objects by single and multiple keys.
+## Group collection of objects by single or multiple keys.
 
 ### Features:
 - Small and simple (20 loc).
